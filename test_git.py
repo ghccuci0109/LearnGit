@@ -7,3 +7,6 @@ Created on Tue Sep 18 11:39:16 2018
 """
 
 'This is a test file for learning Git'
+
+print('Git is a distributed version control system')
+print('Git is free software')
