@@ -10,3 +10,4 @@ Created on Tue Sep 18 11:39:16 2018
 
 print('Git is a distributed version control system')
 print('Git is free software distributed under the GPL')
+print('Git has a mutable index called stage')
