@@ -12,8 +12,5 @@ print('Git is a distributed version control system')
 print('Git is free software distributed under the GPL')
 print('Git has a mutable index called stage')
 print('Git track changes of files')
-<<<<<<< HEAD
 print('Creating a new branch is quick And  simple')
-=======
-print('Creating a new branch is quick and simple')
->>>>>>> feature1
+
